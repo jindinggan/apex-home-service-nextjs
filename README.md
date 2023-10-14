@@ -1,4 +1,15 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+![Image_20231013212159](https://github.com/jindinggan/apex-home-service-nextjs/assets/56701855/d9ca0647-9147-47b8-894d-1edfb6a0e1b8)  
+
+## RoadMap
+- Implemented a robust SPA for apex home services using Next.js, ensuring scalability and performance.
+- Leveraged Tailwind CSS for modular and responsive UI components.
+- Designed a data layer with MongoDB and Prisma, incorporating lazy loading techniques to enhance database efficiency by 30%.
+- Engineered comprehensive CRUD operations, enhancing user experience through intuitive service management.
+- Integrated advanced filtering mechanisms for efficient service discovery and incorporated Leaflet for geospatial service mapping.
+- Orchestrated a secure authentication flow using NextAuth and Google Auth, while also enabling user-centric profile customization.
+- Established a CI/CD pipeline using Vercel, ensuring seamless deployments and updates.
+
 
 ## Getting Started
 
